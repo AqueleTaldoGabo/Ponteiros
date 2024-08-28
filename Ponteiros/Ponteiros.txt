@@ -1,0 +1,25 @@
+A)
+1)
+linha 4: 5;
+linha 5: endereço de i.
+
+2)
+linha 4: endereço de memória de conta;
+linha 5: endereço de memória de salario;
+linha 6: endereço de memória de resposta.
+
+3)
+linha 6: 55;
+linha 7: endereço de num;
+linha 8: 55.
+
+B)
+1)E)
+2)C)
+3) Sim, a B, afinal ela define o valor de i para ser igual ao valor de *pti. E a D que cria uma variável de inteiro.
+
+C) A 5.
+
+D)
+7) o valor impresso de fP é o mesmo endereço que numero1.
+
